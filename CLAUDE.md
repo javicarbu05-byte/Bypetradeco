@@ -10,6 +10,7 @@ maletas bordados). Instagram: @bypetra.deco · Email: bypetra20@gmail.com.
   Informe completo en `docs/auditoria-web-actual.md`.
 - 2026-11-06: propuesta de estructura y croquis en `docs/estructura-web.md` (pendiente de validar).
 - 2026-11-06: croquis visual estilo dibujado a mano (para la tía/Petra): https://claude.ai/artifact/WBAQv9f7izM3wNeTLzdDiK
+- 2026-11-06: PDFs para compartir: `docs/croquis-web-by-petra.pdf` y `docs/auditoria-web-by-petra.pdf`. Esperando feedback de la tía antes de los siguientes pasos.
 - Decisiones abiertas: venta online o pedido por WhatsApp, plataforma, gastos de envío, idiomas.
 
 ## Lecciones de la auditoría que la nueva web debe resolver
