@@ -11,7 +11,7 @@ maletas bordados). Instagram: @bypetra.deco · Email: bypetra20@gmail.com.
 - 2026-11-06: propuesta de estructura y croquis en `docs/estructura-web.md` (pendiente de validar).
 - 2026-11-06: croquis visual estilo dibujado a mano (para la tía/Petra): https://claude.ai/artifact/WBAQv9f7izM3wNeTLzdDiK
 - 2026-11-06: PDFs para compartir: `docs/croquis-web-by-petra.pdf` y `docs/auditoria-web-by-petra.pdf`. Esperando feedback de la tía antes de los siguientes pasos.
-- Decisiones (2026-11-06): venta online con pago · idiomas castellano, catalán e inglés · envíos: hay gastos, empresa de transporte por confirmar (Correos u otra) · plataforma: pendiente (recomendado Shopify).
+- Decisiones (2026-11-06): venta online con pago · idiomas castellano, catalán e inglés · envíos: hay gastos, empresa de transporte por confirmar (Correos u otra) · plataforma: pendiente (recomendado Shopify; ≈ 570 €/año fijos). Presentación de costes: `docs/plataformas-by-petra.pptx`.
 
 ## Lecciones de la auditoría que la nueva web debe resolver
 - Móvil primero (la web actual se rompe en móvil).
