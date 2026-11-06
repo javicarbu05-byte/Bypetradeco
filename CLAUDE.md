@@ -8,7 +8,8 @@ maletas bordados). Instagram: @bypetra.deco · Email: bypetra20@gmail.com.
 ## Estado
 - 2026-11-06: repositorio vacío. Se auditó la web actual (WordPress + WooCommerce + Elementor).
   Informe completo en `docs/auditoria-web-actual.md`.
-- Pendiente: el usuario va a pasar la estructura de la nueva web.
+- 2026-11-06: propuesta de estructura y croquis en `docs/estructura-web.md` (pendiente de validar).
+- Decisiones abiertas: venta online o pedido por WhatsApp, plataforma, gastos de envío, idiomas.
 
 ## Lecciones de la auditoría que la nueva web debe resolver
 - Móvil primero (la web actual se rompe en móvil).
